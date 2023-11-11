@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 #Packages
 Packages/*
+
+#keep manifest.json
+!/Packages/manifest.json
