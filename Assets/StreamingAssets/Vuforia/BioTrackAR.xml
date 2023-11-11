@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="giantdaygecko" size="0.100000 0.133333" />
+    <ImageTarget name="aucklandgecko" size="0.100000 0.066667" />
+    <ImageTarget name="guatemalanpit" size="0.100000 0.066650" />
+    <ImageTarget name="elephanttrunksnake" size="0.100000 0.074583" />
+    <ImageTarget name="abronia" size="0.100000 0.137683" />
+    <ImageTarget name="greenbushviper" size="0.100000 0.066504" />
+    <ImageTarget name="redeyedtreefrog" size="0.100000 0.072200" />
+    <ImageTarget name="pitviper" size="0.100000 0.066685" />
+    <ImageTarget name="crestedgecko" size="0.100000 0.066625" />
+  </Tracking>
+</QCARConfig>
