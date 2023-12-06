@@ -1,5 +1,5 @@
 ## App Description
-BioTrack AR is an Android application designed with Unity, introducing a groundbreaking approach to biodiversity awareness and education through Augmented Reality (AR). With BioTrack AR, users can effortlessly identify animal species by pointing their smartphone's camera at the supplied target images, receiving detailed information including scientific and common names, native regions, and conservation statuses. Whether you're an educator, conservationist, or nature enthusiast, BioTrack AR offers an engaging and impactful way to explore biodiversity and contribute to the conservation of our planet's wildlife.
+BioTrack AR is an Android application designed with Unity, introducing a unique approach to biodiversity awareness and education through Augmented Reality (AR). With BioTrack AR, users can effortlessly identify animal species by pointing their smartphone's camera at the supplied target images, receiving detailed information including scientific and common names, native regions, and conservation statuses. Whether you're an educator, conservationist, or nature enthusiast, BioTrack AR offers an engaging and impactful way to explore biodiversity and contribute to the conservation of our planet's wildlife.
 
 ## App Download
 
