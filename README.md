@@ -19,9 +19,3 @@ https://github.com/csu-hci-projects/FA23-BioTrack-AR-Elevating-Biodiversity-Awar
 ## Overleaf
 
 
-A short description of your application
-Instructions on how to install and run your applications (including software and hardware requirements)
-Links to your short and presentation videos
-Link to your project website (if required)
-Link to your GitHub project
-Link to your Overleaf project
