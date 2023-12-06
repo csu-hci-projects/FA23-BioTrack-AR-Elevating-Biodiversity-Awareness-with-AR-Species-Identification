@@ -17,5 +17,5 @@ The project was developed using Unity v2021.3.32
 https://github.com/csu-hci-projects/FA23-BioTrack-AR-Elevating-Biodiversity-Awareness-with-AR-Species-Identification/tree/main 
 
 ## Overleaf
-
+https://www.overleaf.com/read/mgphzfvcdcbp#b1f0e0 
 
