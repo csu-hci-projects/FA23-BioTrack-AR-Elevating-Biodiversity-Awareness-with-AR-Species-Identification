@@ -3,7 +3,7 @@ BioTrack AR is an Android application designed with Unity, introducing a unique 
 
 ## App Download
 
-The .apk file (biotrackar.apk) can be found in the latest release. Download and run the app on a mobile device. The app was designed for an Android phone. The image targets currently recognized can be found in the TestImages directory.
+The .apk file (biotrackar.apk) can be found in the latest release. Download and run the app on a mobile device, preferably an Android phone as the app was designed for such. The image targets currently recognized can be found in the TestImages directory.
 
 ## Running from Source Code
 
